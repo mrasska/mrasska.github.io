@@ -102,16 +102,12 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         icon: devicon/python
       - name: R
-        description: ''
         icon: devicon/r
       - name: SQL
-        description: ''
         icon: devicon/azuresqldatabase
       - name: Word, Excel
-        description: ''
         icon: devicon/windows11
   - name: Languages
     color: '#eeac02'
