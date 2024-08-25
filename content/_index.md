@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-08-24
 type: landing
 
 design:
@@ -35,14 +35,5 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills & Languages
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
----
