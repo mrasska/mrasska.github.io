@@ -72,7 +72,7 @@ work:
     summary: |
       - Conducted research on the structure of French content creators.
       - Investigated the impacts of YouTube’s moderation policy changes on content production and creators’ visibility on the platform.
-      - Examined YouTube creators' content production and its diversity.
+      - Examined YouTube creators' content supply diversity.
       - Supervised the organisation of various research seminars.
   - position: Human Resources Data Analyst
     company_name: Deloitte Luxembourg
