@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Resume of Maria Rasskazova'
+    twitter: 'mrasska'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Maria Rasskazova. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -44,8 +44,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'August 2024'
+  time_format: 'Central Europe Time'
 
 # Site features
 features:
@@ -53,3 +53,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
