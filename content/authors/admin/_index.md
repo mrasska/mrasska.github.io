@@ -19,7 +19,7 @@ role: PhD Student in Digital Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CEPN, LabEx ICCA, University Sorbonne Paris Nord
+  - name: ACT, LabEx ICCA, University Sorbonne Paris Nord
     url: https://icca.univ-paris13.fr/
 
 # Social network links
@@ -39,7 +39,7 @@ education:
     date_start: 2021-10-01
     date_end: ''
     summary: |
-      Thesis on production and monetization strategies in creators' economy. Supervised by [Prof François Moreau](https://scholar.google.com/citations?hl=fr&user=5h347F8AAAAJ) and [Prof Thierry Pénard](https://sites.google.com/site/ecorennestpenard/). 
+      Thesis on production and monetization strategies in creators' economy. Supervised by [Prof. François Moreau](https://scholar.google.com/citations?hl=fr&user=5h347F8AAAAJ) and [Prof. Thierry Pénard](https://sites.google.com/site/ecorennestpenard/). 
     button:
       text: 'Communications'
       url: 'https://cv.hal.science/maria-rasskazova'
@@ -64,7 +64,7 @@ work:
     summary: |
       - Taught undergraduate courses in Economics.
   - position: PhD student
-    company_name: CEPN, LabEx ICCA, University Sorbonne Paris Nord
+    company_name: ACT, LabEx ICCA, University Sorbonne Paris Nord
     company_url: 'https://icca.univ-paris13.fr/le-labex-icca/'
     company_logo: ''
     date_start: 2021-10-01
