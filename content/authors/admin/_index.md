@@ -37,7 +37,7 @@ education:
   - area: PhD Economics
     institution: University Sorbonne Paris Nord
     date_start: 2021-10-01
-    date_end: End of 2025
+    date_end: 2025-12-01
     summary: |
       Thesis on production and monetization strategies in creators' economy. Supervised by [Prof. François Moreau](https://scholar.google.com/citations?hl=fr&user=5h347F8AAAAJ) and [Prof. Thierry Pénard](https://sites.google.com/site/ecorennestpenard/). 
     button:
@@ -70,7 +70,7 @@ work:
     company_url: 'https://icca.univ-paris13.fr/le-labex-icca/'
     company_logo: ''
     date_start: 2021-10-01
-    date_end: End of 2025
+    date_end: 2025-12-01
     summary: |
       - Conducted research on the structure of French content creators.
       - Investigated the impacts of YouTube’s moderation policy changes on content production and creators’ visibility on the platform.
