@@ -127,7 +127,5 @@ languages:
   - name: German
 
 ---
-I'm currently completing a PhD in economics at University Sorbonne Paris Nord. My dissertation focuses on content creator ecosystems, studying the interactions between creators, advertisers, audiences and platforms. My thesis examines the interdependence of these economic actors and its impact on production, moderation and monetisation strategies.
-Once I have defended my thesis (at the end of 2025), I would like to focus on transforming my research into practical solutions for building healthier and more sustainable ecosystems for everyone. To this end, I rely on research in economics and social sciences, as well as on data science (Python, R, SQL) to answer complex questions and solve strategic problems.
-
-My research interests are creators' economy, content production, monetization and platforms' moderation strategies.  
+I'm currently completing a PhD in economics at University Sorbonne Paris Nord. \
+My research focuses on content creator ecosystems, studying the interactions between creators, advertisers, audiences and platforms. In my thesis, I examine the interdependence of these economic actors and its impact on production, moderation and monetisation strategies. To this end, I rely on research in economics and social sciences, as well as on data science (Python, R, SQL) to answer complex questions and solve strategic problems.
