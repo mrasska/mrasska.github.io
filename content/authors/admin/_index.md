@@ -20,13 +20,11 @@ role: PhD Student in Digital Economics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: ACT, LabEx ICCA, University Sorbonne Paris Nord
-    url: https://icca.univ-paris13.fr/
+    url: https://act.univ-spn.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/x
-    url: https://twitter.com/mrasska
   - icon: brands/github
     url: https://github.com/mrasska
   - icon: brands/linkedin
@@ -37,7 +35,7 @@ education:
   - area: PhD Economics
     institution: University Sorbonne Paris Nord
     date_start: 2021-10-01
-    date_end: 2025-12-01
+    date_end: 2026
     summary: |
       Thesis on production and monetization strategies in creators' economy. Supervised by [Prof. François Moreau](https://scholar.google.com/citations?hl=fr&user=5h347F8AAAAJ) and [Prof. Thierry Pénard](https://sites.google.com/site/ecorennestpenard/). 
     button:
@@ -67,10 +65,10 @@ work:
       - 3rd year bachelor degree: Behavioral Economics applied to Economic Policies (36h).
   - position: PhD student
     company_name: ACT, LabEx ICCA, University Sorbonne Paris Nord
-    company_url: 'https://icca.univ-paris13.fr/le-labex-icca/'
+    company_url: 'https://act.univ-spn.fr/'
     company_logo: ''
     date_start: 2021-10-01
-    date_end: 2025-12-01
+    date_end: 2026
     summary: |
       - Conducted research on the structure of French content creators.
       - Investigated the impacts of YouTube’s moderation policy changes on content production and creators’ visibility on the platform.
