@@ -28,7 +28,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/mrasska
   - icon: brands/linkedin
-    url: https://www.linkedin.com/mrasskazova
+    url: https://www.linkedin.com/in/mrasskazova/
 
 
 education:
