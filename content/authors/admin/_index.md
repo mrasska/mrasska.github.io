@@ -2,7 +2,6 @@
 # Display name
 title: Maria Rasskazova
 
-
 # Full name (for SEO)
 first_name: Maria
 last_name: Rasskazova
@@ -125,5 +124,6 @@ languages:
   - name: German
 
 ---
-My research explores digital platforms by analyzing the interactions between producers, advertisers, audiences, and platforms, while also addressing questions of governance and regulation. To this end, I rely on research in economics and social sciences, as well as on data science (Python, R, SQL) to answer complex questions and solve strategic problems.\
-In February 2026, defended my doctoral dissertation in Digital Economics at the University Sorbonne Paris Nord. In my doctoral dissertation, I examined the interdependence of the economic actors in content creator ecosystems and its impact on production, moderation and monetisation strategies. 
+My research explores digital platforms by analyzing the interactions between producers, advertisers, audiences, and platforms, while also addressing questions of governance and regulation. To this end, I rely on research in economics and social sciences, as well as on data science (Python, R, SQL) to answer complex questions and solve strategic problems.\  
+In February 2026, defended my doctoral dissertation in Digital Economics at the University Sorbonne Paris Nord. In my doctoral dissertation, I examined the interdependence of the economic actors in content creator ecosystems and its impact on production, moderation and monetisation strategies.  
+I am available for academic opportunities starting August 2026.
