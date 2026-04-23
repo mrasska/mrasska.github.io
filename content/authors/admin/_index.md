@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Digital Economics
+role: PhD in Digital Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
