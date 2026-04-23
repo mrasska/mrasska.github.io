@@ -16,8 +16,11 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Résumé
         url: uploads/resume.pdf
+    button:
+        text: Job Market paper
+        url: uploads/job_market_paper.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
