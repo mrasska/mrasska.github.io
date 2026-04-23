@@ -18,9 +18,7 @@ sections:
       button:
         text: Résumé
         url: uploads/resume.pdf
-      button:
-        text: Job Market paper
-        url: uploads/job_market_paper.pdf
+      
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
