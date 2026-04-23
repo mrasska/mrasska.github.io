@@ -18,7 +18,7 @@ sections:
       button:
         text: Résumé
         url: uploads/resume.pdf
-    button:
+      button:
         text: Job Market paper
         url: uploads/job_market_paper.pdf
     design:
