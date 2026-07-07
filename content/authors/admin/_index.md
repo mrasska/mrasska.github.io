@@ -52,7 +52,7 @@ education:
     date_end: 2018-06-30
     
 work:
- - position: Postdoctoral Researcher in Strategy and Digital Economics
+  - position: Postdoctoral Researcher in Strategy and Digital Economics
     company_name: Institute for Strategy, Technology and Organization (ISTO), Ludwig-Maximilians Universität Munich
     company_url: 'https://www.som.lmu.de/isto/en/'
     company_logo: ''
