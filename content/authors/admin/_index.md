@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD in Digital Economics
+role: Postdoctoral researcher in Strategy and Digital Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ACT, LabEx ICCA, University Sorbonne Paris Nord
-    url: https://act.univ-spn.fr/
+  - name: Institute for Strategy, Technology and Organization - LMU Munich
+    url: https://www.som.lmu.de/isto/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,6 +52,14 @@ education:
     date_end: 2018-06-30
     
 work:
+ - position: Postdoctoral Researcher in Strategy and Digital Economics
+    company_name: Institute for Strategy, Technology and Organization (ISTO), Ludwig-Maximilians Universität Munich
+    company_url: 'https://www.som.lmu.de/isto/en/'
+    company_logo: ''
+    date_start: 2026-09-01
+    date_end: 2029-08-31
+    summary: |
+      - Soon
   - position: Adjuct Lecturer
     company_name: School of Management, University of Lorraine
     company_url: 'https://icca.univ-paris13.fr/le-labex-icca/'
@@ -128,4 +136,4 @@ My research explores digital platforms by analyzing the interactions between pro
 
 In February 2026, I defended my doctoral dissertation in Digital Economics at the University Sorbonne Paris Nord. In my doctoral dissertation, I examined the interdependence of the economic actors in content creator ecosystems and its impact on production, moderation and monetisation strategies.  
 
-I am available for academic opportunities starting August 2026.
+Since September 2026, I've joined Prof Kretschmer's and Prof Obermeier's team at ISTO - LMU as a postdoctoral researcher in Strategy and Digital Economics.
